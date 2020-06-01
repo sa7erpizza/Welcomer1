@@ -6,7 +6,7 @@ app.get("/", (request, response) => {
 });
 app.listen(process.env.PORT);
 setInterval(() => {
-  http.get(`http://اسم بروجكيت.glitch.me/`);
+  http.get(`http://Welcomer.glitch.me/`);
 }, 280000);
 
 
